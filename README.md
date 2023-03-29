@@ -18,7 +18,7 @@
 
 <a name="giangvienhuongdan"></a>
 ## Giảng viên
-* TS. **HUỲNH THỊ THANH THƯƠNG** - *thuonghtt@uit.edu.vn*
+* . **HUỲNH THỊ THANH THƯƠNG** - *thuonghtt@uit.edu.vn*
 
 <a name="doancuoiky"></a>
 ## Đồ án cuối kì
